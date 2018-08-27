@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535378855 source:d:\cprogram\宿舍管理系统\宿舍管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
